@@ -8,10 +8,10 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
   <head>
-    <title>My super web-app!</title>
+    <title>Master branch</title>
   </head>
   <body>
-    I am alive!
+    V1 branch
   </body>
 </html>
 
